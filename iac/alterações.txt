@@ -1,0 +1,3 @@
+Apenas teste
+
+- *git merge* : mescla alterações de uma brench com outra.
